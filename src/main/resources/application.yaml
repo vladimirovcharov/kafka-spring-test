@@ -1,0 +1,5 @@
+app-prop: "Property"
+
+logging:
+  level:
+    root: info

@@ -1,0 +1,11 @@
+app-prop: "Test property"
+
+spring:
+  kafka:
+    consumer:
+      auto-offset-reset: earliest
+      enable-auto-commit: false
+
+logging:
+  level:
+    root: info
